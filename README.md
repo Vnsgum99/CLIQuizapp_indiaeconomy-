@@ -1,6 +1,5 @@
 # CLIQuizapp_indiaeconomy-
 # WHAT ABOUT THE INDIA ECONOMY FACTS?
-This is a CLI app which tests your knowledge on India and keeps track of your highscore.
 
 ### Want to play this game?
 [Click here](https://github.com/Vnsgum99/CLIQuizapp_indiaeconomy-?embed=1&output=1) to play it!
