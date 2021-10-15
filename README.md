@@ -6,4 +6,4 @@
 
 ### Question credits:
  * [economy](https://www.gktoday.in/quizbase/indian-economy-mcqs?pageno=1)
- * 
+
